@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "id": "did:web:githubusercontent.com:skante93:gx-test:master",
+  "verificationMethod": [
+    {
+      "@context": "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/",
+      "id": "did:web:githubusercontent.com:skante93:gx-test:master#JWK2020-RSA",
+      "type": "JsonWebKey2020",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "kid": "HqUCfUOgVv57yXYVoT7YaEyQND3mGBOIuBnRPbweP8A",
+        "alg": "PS256",
+        "e": "AQAB",
+        "n": "th6pINjWTtMqj3NUVaXnTvmhcg0Yg-p7rGl2BXv6yr_cXQnqLo98Y_7RYc6roNUE6ztd0qlSd-TEhPDOlOZewZWceYxZitSEfaXilniC80fzdCXtW5wIDuNBWppLMttDGZNM7cnWBjn5Hn-FXg3U--t22-BgXa42lArAexEpIInPPaE4XRp9Rbg-z17wSurb8_ZudKPvt7ieESZBXkfuTufVl8VufSBikhPg7inBxUcHKSsLSGTOvJg_RGKCF6lziNvWa8p3ma63onfd-fZHgM7uPK1oKJZOoycy2jDNKkujes48ACNsBjnhtepj4FvpTf1DnvM7St3AFCUw3ljN1w"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:githubusercontent.com:skante93:gx-test:master#JWK2020-RSA"
+  ]
+}
