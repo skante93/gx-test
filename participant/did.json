@@ -7,29 +7,29 @@
   "type": [
     "VerifiableCredential"
   ],
-  "id": "https://githubusercontent.com/skante93/gx-test/participant",
-  "issuer": "did:web:githubusercontent.com:skante93:gx-test",
-  "issuanceDate": "2024-02-19T15:55:14.264Z",
+  "id": "https://raw.githubusercontent.com/skante93/gx-test/participant",
+  "issuer": "did:web:raw.githubusercontent.com:skante93:gx-test",
+  "issuanceDate": "2024-02-19T16:13:44.882Z",
   "credentialSubject": {
     "gx:legalName": "IMT transfert",
     "gx:headquarterAddress": {
       "gx:countrySubdivisionCode": "FR-IDF"
     },
     "gx:legalRegistrationNumber": {
-      "id": "https://githubusercontent.com/skante93/gx-test#LRN2"
+      "id": "https://raw.githubusercontent.com/skante93/gx-test#LRN2"
     },
     "gx:legalAddress": {
       "gx:countrySubdivisionCode": "FR-IDF"
     },
     "type": "gx:LegalParticipant",
     "gx-terms-and-conditions:gaiaxTermsAndConditions": "70c1d713215f95191a11d38fe2341faed27d19e083917bc8732ca4fea4976700",
-    "id": "did:web:githubusercontent.com:skante93:gx-test:participant"
+    "id": "did:web:raw.githubusercontent.com:skante93:gx-test:participant"
   },
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-19T15:55:14.264Z",
+    "created": "2024-02-19T16:13:44.882Z",
     "proofPurpose": "assertionMethod",
-    "verificationMethod": "did:web:githubusercontent.com:skante93:gx-test#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiJ9..tR3I7DRti2piCOjmrKl-b2Uk9RTE1wARkGD9tiEGQCWOROHCOc1HZzyOM1_kWu3jBOX2BiVaw8NCnHConpJMG1Bi8UtkPCriz6Y-0Nbrnxn1f6z-S73KQcayAjzbNzOin2WMSZMXJm5_dzfaeZpUrCBTpaHdfoHMBXAlGvA88ZJQFWqvNseT36l5vAUHvLgC6djIZERn_nVD1ZxrYXyRveJh8SbodE_hNoYBHT7tnfv-qjZDrYuSaWqO40KmZsSj60iY4BTUgn-1Naj_kP3n3wXI3yqya65zUFP7vneLnJd1pVMC99t1FVcNOhWeBgRBq7GwGZINuQYLfuRi6jG5Rg"
+    "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test#JWK2020",
+    "jws": "eyJhbGciOiJQUzI1NiJ9..WQYt-5S8snXWcXXApzDy4-GEmyrcpv7pb2kjGHSwNMw3NpTQ9cF3gR6DEYUyA9w5XNv5Nv6QuP3EgHHlIBzcoWWEmEVxc0FDWimKJKu0OiVUWQjRUymWJX8x41wGWwJ-e6weF3BbzxByOYv31FeF63Y1uzjs2qUcl00cXXQZIhB2MqyAoc8iENhjz5qGXgdA8yObjBwAR57NzyNfSPmf1t00khc2ftASIlEM0pnaNQgV6bQbBTUcQk8B6NjQzCO1Nq21i5eIT_MiaYzkHdL4BxlVwMzi1nl9930RVoAxA-Amf23SKoeY1eerprmq40-dq60OkGNzpPBVus2nhe4CNQ"
   }
 }

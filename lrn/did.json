@@ -6,28 +6,28 @@
   "type": [
     "VerifiableCredential"
   ],
-  "id": "https://githubusercontent.com/skante93/gx-test#LRN",
+  "id": "https://raw.githubusercontent.com/skante93/gx-test#LRN",
   "issuer": "did:web:gx-notary.airenetworks.es:v1",
-  "issuanceDate": "2024-02-19T15:55:14.230Z",
+  "issuanceDate": "2024-02-19T16:13:44.841Z",
   "credentialSubject": {
     "@context": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
     "type": "gx:legalRegistrationNumber",
-    "id": "https://githubusercontent.com/skante93/gx-test#LRN2",
+    "id": "https://raw.githubusercontent.com/skante93/gx-test#LRN2",
     "gx:vatID": "FR57434541876",
     "gx:vatID-countryCode": "FR"
   },
   "evidence": [
     {
       "gx:evidenceURL": "http://ec.europa.eu/taxation_customs/vies/services/checkVatService",
-      "gx:executionDate": "2024-02-19T15:55:14.230Z",
+      "gx:executionDate": "2024-02-19T16:13:44.841Z",
       "gx:evidenceOf": "gx:vatID"
     }
   ],
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-19T15:55:14.230Z",
+    "created": "2024-02-19T16:13:44.841Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:gx-notary.airenetworks.es:v1#X509-JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiJ9..Ve9ODDajn9Ng-PJuwbyOA1V5Mif8vnMzWXxaSf1jmCOVefUvcKcJTncPGdeuO7ZxcL9DOkZDl4aJlKz_hBnJQcUes6nS0v-rXIPVOsjzfGjnUXQcN5XGL8ThwX2DMNtgGL7dXu5M388w-fYPsxq_KmfE6dioUtTlMhnl4EbhLqC398p00a63vqFWJqHstD0Vjytw2kVaBQsEsnUpWyxvz30luveUzeiN4hIuNx4cY1sXgRPb7HANd_2_8fDJpOJ_MjOj9WkBF2bFAWLspUVau4sNb9wJDLFYJXabgvQLguz07M7L8nP_00SYZ2d9lMtaJqvx4kz6YVuIBuLzdYUyyg"
+    "jws": "eyJhbGciOiJQUzI1NiJ9..UAL9SCzNQLoAjLSmVq4dfY-era5ZdgSb91YQZ2QKKOzYlhN4jzz_Mo4r7FLdcYYMwKhdn8BYWKVoysNcIn6AEhNfvVl1l8y-TsPdYgEWlvqZylVdVvGzaeoOPOfNoKn_D1GZEL76pX9TOxwS8wb9QFHahRcYCQqMHsgQ5giIWiliQrqG-o2oq8-QL9Ll6MmDAQBGyI5RV4mCsRulSVw0qtwcuSRHK28OseZceRNyuRUrH0nrxLlNVfUge-a54-Fd-6jJjvzBJQPy6t0WmhYpV4bMrlKo6dC76pTBhAGvP5DjGZ2dcxGgC4S5lr6nCPyrGo42DI_Bp1NiOCHTaFSQVg"
   }
 }
