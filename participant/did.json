@@ -9,27 +9,27 @@
   ],
   "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:participant",
   "issuer": "did:web:raw.githubusercontent.com:skante93:gx-test:master",
-  "issuanceDate": "2024-02-20T10:21:27.632Z",
+  "issuanceDate": "2024-02-20T10:33:08.392Z",
   "credentialSubject": {
     "gx:legalName": "IMT transfert",
     "gx:headquarterAddress": {
       "gx:countrySubdivisionCode": "FR-IDF"
     },
     "gx:legalRegistrationNumber": {
-      "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:lrn"
+      "id": "did:web:gaia-x.eu:legalRegistrationNumber.json"
     },
     "gx:legalAddress": {
       "gx:countrySubdivisionCode": "FR-IDF"
     },
     "type": "gx:LegalParticipant",
-    "gx-terms-and-conditions:gaiaxTermsAndConditions": "did:web:raw.githubusercontent.com:skante93:gx-test:master:terms",
+    "gx-terms-and-conditions:gaiaxTermsAndConditions": "did:web:raw.githubusercontent.com:skante93:gx-test:master:terms#clear-statements",
     "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:participant#part-props"
   },
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T10:21:27.632Z",
+    "created": "2024-02-20T10:33:08.392Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiJ9..SI_4BHDHaR0Wa-3bZwKooJJUN-Ujrg-HEpwGo61nY6pvRJineSM0dp41Xp4Rt8MCtIyGhZdWs66xZYjGl3KxllxzYTylzwz4nPRc_YvkZ1E3TP8dJ2MJ4M60hy-5CNJOhqXuW4GhdV9nQS0LQGknXXBl9uSpfB0-aUFUj6OTbg3ZPJOgssk5f0l-veTtwkaup7hpJOayivwmNvHGDd-yqGT1aJW1FBYq7zkNkVbtkAObFmay7JH7tZ2E_U_uBKFd0EeWwf93kU7nX73KOAQcGS8x5Sur4XuDDkQwYqHO7tgZNVAbhYmNpIAzuCBRRwUuUIGTIz_e-rNb33l47iWgYg"
+    "jws": "eyJhbGciOiJQUzI1NiJ9..mSD4-DUrX5_o1HSG-Vux_xR6Jh8I5wPhhnW3qrqOrkkfq3a1OYfIIf9DkvfCPbMMEGSEoTddowzzCKmrFWX-wFikR9PH_HdwEOzuKA7X0K_HAmqzCQPajjhtiIDNAU6F_jAUuKjCT56Y_H7UCzXO6Qn7ueBFBfq3klUUJH9j-ABBvGoq1MSfBi8oneO4CRWFuQZIWJ-ecglVKez2on1h-HYaAORUTcmk6AeixLGjm4tEa8moHT7N22mr_LWGwfnovvnHLN9tSdFnV25Msgs9_os-0rhc7YrrLMOWOvk7DETyaaQyfQ4HC6AODAAGOHVOQ9kgTjRecu3QEOuO_TRG5w"
   }
 }

@@ -5,7 +5,7 @@
     "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
   ],
   "type": "VerifiableCredential",
-  "issuanceDate": "2024-02-20T10:21:27.624Z",
+  "issuanceDate": "2024-02-20T10:33:08.385Z",
   "credentialSubject": {
     "gx:termsAndConditions": "The PARTICIPANT signing the Self-Description agrees as follows:\n- to update its descriptions about any changes, be it technical, organizational, or legal - especially but not limited to contractual in regards to the indicated attributes present in the descriptions.\n\nThe keypair used to sign Verifiable Credentials will be revoked where Gaia-X Association becomes aware of any inaccurate statements in regards to the claims which result in a non-compliance with the Trust Framework and policy rules defined in the Policy Rules and Labelling Document (PRLD).",
     "type": "gx:GaiaXTermsAndConditions",
@@ -15,9 +15,9 @@
   "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:terms",
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T10:21:27.624Z",
+    "created": "2024-02-20T10:33:08.385Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiJ9..Km6aCPHy4MgsjrH-GsGbJT6txTYp4g7Im33LIww5fSL13ICG-l2xF081C3Pt6I4l-ia_qS2KUXwAHDUvExkDm7UP9yZxzXalaBFhf1sJ8pKhuKSVlTKsXw83L_V8tmhC4hurd6NrZOiCE_POij1dv9cq61P1uJx4qrQu2MI7dS3S-iAIpPB5u0Xnf8bl4cGtzS9w-2VdLgAbrVFjzSDwPsLiwJ5uTeOzrE40HM0zI3wgvfBzbIKVvnHURy6W0T6lhM2oZd16zViFNND9YokoNBNWkX2xGuBs2ULWYOjEhkMgq-aOzwhLy8nM1rO7e9cNhC8ivUUZ-YUCOxWvgsltAg"
+    "jws": "eyJhbGciOiJQUzI1NiJ9..kK1JEJGWuYmSbIg2upg0qfsTemuxMQsEvOdLh7H_zrOfByZVps4YM-FgOAAMRd4MYwlNiNRWWoqOWGmYwmQudOkxKZcVIBFKOLym0WW9ICkOh1w5rY0IGfyiY4T0x2ooVAqrzRIaKxQMGh4ehwerLMv0lLHL2_UlN7oMyxbRLNWtuLv2dA1LgUS-oTqUCifNDI-QgX5tA54Pys0PB2Rp0MI56zGAFobC8QlvjYz8XfPL27Oi5QTL-2weRiap72RoN_dy0T34RR7W0_3ryBjPjXvlevZXpYoiVNV17OOhDkFJaXcYt3xjtMNQN_0TJXzqzyaB8RgJOfl1jXAQDZS9gg"
   }
 }

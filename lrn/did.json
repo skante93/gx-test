@@ -8,7 +8,7 @@
   ],
   "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:lrn",
   "issuer": "did:web:gx-notary.airenetworks.es:v1",
-  "issuanceDate": "2024-02-20T10:21:27.578Z",
+  "issuanceDate": "2024-02-20T10:33:08.343Z",
   "credentialSubject": {
     "@context": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
     "type": "gx:legalRegistrationNumber",
@@ -19,15 +19,15 @@
   "evidence": [
     {
       "gx:evidenceURL": "http://ec.europa.eu/taxation_customs/vies/services/checkVatService",
-      "gx:executionDate": "2024-02-20T10:21:27.578Z",
+      "gx:executionDate": "2024-02-20T10:33:08.342Z",
       "gx:evidenceOf": "gx:vatID"
     }
   ],
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T10:21:27.603Z",
+    "created": "2024-02-20T10:33:08.363Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:gx-notary.airenetworks.es:v1#X509-JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..2pYXTk2MNGLU_4oiJtNIxZ35iHYJVgce2krvDKQZ0cFdJ1fvumWzXxBhWsWLvBS7XTSaQPxqCaLw1pE0juMWfWf7uJwzwNxvYKV73BfmWeScQILkHtdIJ5zQJJ5z4lX9EnQ8cs7iJTMQ94FpbDRgw_Lvt7605TNI2uHCNfY-s6HE5OaDKy-cgRxACL1Wh0jfP8kQUr8DKyARJp-TdQ2XlLe-RKLEM5sujCw9zuKOPqXsbWL2yVTtZ2EDIPGqf5NcaCLZcXQDCUG04D9GEGY-aPw4lubg_Z1bTad2A1XoAH-JdvF5MxB5CdyvSYsVHJada929tfawyqrykiKYuGZMp8xBfg25B0PLDvi7HY4tifPCQ2BBdvNcRnPyF7KACHTowyHX02XOYEfmflv0iuh6SFvp_Rh6X08jN8YhBwQMFQ8SmGX-ZYZV1UAGg5jMP--audCZNO7Fd1u90YcbapQQuzx90zT_9q_f02hOzd6LRzu3NaoeE_8LLsMZuj-9P6HzYgKf4OHTS2c80q0__JNIxv53lWxoFqnpvLpZ1zfe5nXhQAXdBjASm2dJenw363iJadsBVAw-ugcl6QgAlao4JvnHftSZSsl-8Iynr1wQKQqJLEBnNpWATI7ZQk0diIC-By7UEro5j5UiwLkYVgBk3k2S0ixmLx9UQkh9UO3b4Bk"
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..K_PMTPqXFQ-tXdjPFEct0Dli4hXqERzyw2LIWrzPqLMKZvszsubZMRro0ndnuIFA0G2Evwq2U0pWltqrvUdNNbo_yOPERgo-nKn_WPKdxd1Iz3S--l9nx7pMGE9dhO786JYXSn995Bea0dFT-GrWnaOBdng-rcXAnLKCuPLMthms5mgrOldttNt2y8ddSbYFUPYvNeCHpt-9b3wRcHfDXmD45BjVFstvyJrxF84eybCmAR64H4egY3Y0HZygMJhXO8U6FY2rFCt80e5ctdG7e-hhaezfHdMC-NxPjPJiZLBKU2io5URoP7sh46qfn9pkM4RaZGxjCebXBmZ1o1_mPANFUvQeHea6FLG-wwpgB2L7G_uG9YTsF4oIrvY5qalRlNa5KSGxnP3LClmjha5FogHEYGEqTxWPgVKuBMhw1ZWyQ919qm4orxZzpbm6O3fhXW-Xfx1Lb0pV0Xjf7KDvHvarvHdAHDkYYL2ikyqyH_b6B-p3piLeKYODZme36jdAAGQx0-PGaM7rJSdCMbvm9qA5Q0H5NyWNjFTJ8FgjHBFcL2IT4yn88VoU9u2mCtrSIziEVvCZQK_5xcjj6nkw52MnpxPMy1i44xituZ02Wd5a8mXt6gHDhJNM7z5UIc-FcnYJrx6ecf0IeuyuhYVReTSE5YLQlBeEF1_ByHCtRjw"
   }
 }
