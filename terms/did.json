@@ -5,7 +5,7 @@
     "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
   ],
   "type": "VerifiableCredential",
-  "issuanceDate": "2024-02-20T10:13:22.371Z",
+  "issuanceDate": "2024-02-20T10:15:20.997Z",
   "credentialSubject": {
     "gx:termsAndConditions": "The PARTICIPANT signing the Self-Description agrees as follows:\n- to update its descriptions about any changes, be it technical, organizational, or legal - especially but not limited to contractual in regards to the indicated attributes present in the descriptions.\n\nThe keypair used to sign Verifiable Credentials will be revoked where Gaia-X Association becomes aware of any inaccurate statements in regards to the claims which result in a non-compliance with the Trust Framework and policy rules defined in the Policy Rules and Labelling Document (PRLD).",
     "type": "gx:GaiaXTermsAndConditions",
@@ -15,9 +15,9 @@
   "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:terms#TERMS",
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T10:13:22.371Z",
+    "created": "2024-02-20T10:15:20.997Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiJ9..GyhC_9-5Q6m5tEApQEjhD_pJ6-FvT5H_mQ52BXt1EcYty_G_8CCV2TMoMZzoP5G_WkhWgjgfciDHNgGSpRzn2SFy78tJ2-k8v5wx44JTu0FIjaxOJ2eJG_JIclqF6orE9ZXcl8j0rFy6tIP9dlcHXU439mYwgrB_OYRPpegA1BeXc1t_1ntkek_F6y9Wd715AKai_l8YUU59uTqLqqbiLqYayVNZyCoaie1UsoPa3JAIpgfefpICQkEepy_tvMoB5jjgk2dfN754xKUe0bORIebq_x0horzoKeRMmJ4dE69L3Z-Y0LOvKQZLAaDeU6X7kctO8AhH3k_srS_YzOpwlg"
+    "jws": "eyJhbGciOiJQUzI1NiJ9..bQhFRqzCAKgrifb54pIzNoDnPoORHrw5YZa5sUicZ1bgIC7hozT_DbuCUEFPvHXwhdxuwEfqspGzff5lTjsr7VEH5MRiE2TOsqSmSZBGGNDfYDkZt1Ptldb4hZyEPsPJaXtLn2LMj-UiJTDZh6m5RD1Fg04Vmv5qKr7vYlhMV0Bgdb0txX-qoLtbzwVnxRCUSuD_SwDbljte7nk-dA0z9cAYsiltr9vdjri-J9y8MaZGhBmXrWy3j3S0wXc_-OR60EGpkF-xW2BDjhgtAdzl1kLzMiwDPS7wOe27oRuDUdDCmZis1qZNOaGGw6y1TnyR9NOeGzc-55GQL27Yv5YONw"
   }
 }
