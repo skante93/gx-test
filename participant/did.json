@@ -1,0 +1,35 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/security/suites/jws-2020/v1",
+    "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
+  ],
+  "type": [
+    "VerifiableCredential"
+  ],
+  "id": "https://raw.githubusercontent.com/skante93/gx-test/master/participant",
+  "issuer": "did:web:raw.githubusercontent.com:skante93:gx-test:master",
+  "issuanceDate": "2024-02-20T09:45:48.444Z",
+  "credentialSubject": {
+    "gx:legalName": "IMT transfert",
+    "gx:headquarterAddress": {
+      "gx:countrySubdivisionCode": "FR-IDF"
+    },
+    "gx:legalRegistrationNumber": {
+      "id": "https://raw.githubusercontent.com/skante93/gx-test/master#LRN2"
+    },
+    "gx:legalAddress": {
+      "gx:countrySubdivisionCode": "FR-IDF"
+    },
+    "type": "gx:LegalParticipant",
+    "gx-terms-and-conditions:gaiaxTermsAndConditions": "70c1d713215f95191a11d38fe2341faed27d19e083917bc8732ca4fea4976700",
+    "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:participant"
+  },
+  "proof": {
+    "type": "JsonWebSignature2020",
+    "created": "2024-02-20T09:45:48.444Z",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
+    "jws": "eyJhbGciOiJQUzI1NiJ9..jqgjSbbASxwMgxXOvTPXnx9ogPI5kn3ryUvsUrSnFiykI5UljXkaisZ8b5zpRTJLQVA0tEpd3JHHG60q48qWW6-FwuO7a-diz4-F4lAaflL8yVBSmrY_suP5XUqQPmY4G-8rWCZDqiPDivHABubyxQI34dgxWt_9OWNp7MDnXnul2dAAJT1md8Ca-WiBYRyIZiZl7n-yEYD-3ujMfl4NhWB4W0tb3TxIRvCi1Ejy48vX-m3FtS-6GoDhv-balxygZMoK08BrRuM12LsNH_gf7KgpmmMVhSzm7G0MYZEbIUAKrAmfSftN_wn0SGDB68ZG1tWE_EQal88uh1SYiRUFIg"
+  }
+}
