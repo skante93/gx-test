@@ -9,27 +9,27 @@
   ],
   "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:participant",
   "issuer": "did:web:raw.githubusercontent.com:skante93:gx-test:master",
-  "issuanceDate": "2024-02-20T10:15:21.004Z",
+  "issuanceDate": "2024-02-20T10:21:27.632Z",
   "credentialSubject": {
     "gx:legalName": "IMT transfert",
     "gx:headquarterAddress": {
       "gx:countrySubdivisionCode": "FR-IDF"
     },
     "gx:legalRegistrationNumber": {
-      "id": "https://raw.githubusercontent.com/skante93/gx-test/master#LRN2"
+      "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:lrn"
     },
     "gx:legalAddress": {
       "gx:countrySubdivisionCode": "FR-IDF"
     },
     "type": "gx:LegalParticipant",
-    "gx-terms-and-conditions:gaiaxTermsAndConditions": "70c1d713215f95191a11d38fe2341faed27d19e083917bc8732ca4fea4976700",
-    "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:participant"
+    "gx-terms-and-conditions:gaiaxTermsAndConditions": "did:web:raw.githubusercontent.com:skante93:gx-test:master:terms",
+    "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:participant#part-props"
   },
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T10:15:21.004Z",
+    "created": "2024-02-20T10:21:27.632Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiJ9..q_acDUEXYU26Nvl7cD4xoxwjLg9LiWtGV1OckzQVUC7djYtY7Cci4zS9jiNNmifRIB5NnvgL1K6YbX_1_HNoyo8aVJU4duM0etf7_usVoOF2tHqkMyhrPv89oDXUaiaKscdtbUITsWClVtBXipjv7Sc4K1pV3dbyCGAoz7BRGNgsgI1KCvLaKQh_QFPntTZiGOx28RUMBE4vHWJOsxTDBFRw8sSjPWghM-yc1rMrQ_HYVjcKq6UstIj6Pweyha8HIT8jnXh1xwsibAq_0OuJk7Q2wqYCJ-F0NaAYtwXHUMd8yC9DspaS3i35F-elEEhWctPB9Wwxq05K_mznWT0GSA"
+    "jws": "eyJhbGciOiJQUzI1NiJ9..SI_4BHDHaR0Wa-3bZwKooJJUN-Ujrg-HEpwGo61nY6pvRJineSM0dp41Xp4Rt8MCtIyGhZdWs66xZYjGl3KxllxzYTylzwz4nPRc_YvkZ1E3TP8dJ2MJ4M60hy-5CNJOhqXuW4GhdV9nQS0LQGknXXBl9uSpfB0-aUFUj6OTbg3ZPJOgssk5f0l-veTtwkaup7hpJOayivwmNvHGDd-yqGT1aJW1FBYq7zkNkVbtkAObFmay7JH7tZ2E_U_uBKFd0EeWwf93kU7nX73KOAQcGS8x5Sur4XuDDkQwYqHO7tgZNVAbhYmNpIAzuCBRRwUuUIGTIz_e-rNb33l47iWgYg"
   }
 }
