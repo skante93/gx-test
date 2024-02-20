@@ -7,9 +7,9 @@
   "type": [
     "VerifiableCredential"
   ],
-  "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:participant",
+  "id": "https://raw.githubusercontent.com/skante93/gx-test/master/participant/did.json",
   "issuer": "did:web:raw.githubusercontent.com:skante93:gx-test:master",
-  "issuanceDate": "2024-02-20T14:26:59.793Z",
+  "issuanceDate": "2024-02-20T14:30:38.054Z",
   "credentialSubject": {
     "gx:legalName": "IMT transfert",
     "gx:headquarterAddress": {
@@ -23,13 +23,13 @@
     },
     "type": "gx:LegalParticipant",
     "gx-terms-and-conditions:gaiaxTermsAndConditions": "did:web:raw.githubusercontent.com:skante93:gx-test:master:terms#clear-statements",
-    "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:participant#part-props"
+    "id": "https://raw.githubusercontent.com/skante93/gx-test/master/participant/did.json#part-props"
   },
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T14:27:00.741Z",
+    "created": "2024-02-20T14:30:38.905Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il0sImtpZCI6Im9TQ3FnNmYzREVVNE1xT1dMSDRGRHhlUzVkOGFqdE9oUG9KXzlLd3VId0UifQ..UnYJAJTTqfkfPfJpNwdr-3TLVXQ9w6tUUANRCknX3Md8LvnbU2WEPywxhmhTUoMplmxx5nYwiNNl-Rj03lkKSJ_ysxLCM6wDb4MhimTmOog6_DgKNSL8KZz_76KrAwJHY70CtOWSLIhH3vAKB4Q7UX_Pd2v3LGDFfY13gsGF0BJkJ1imTQv_2_Yds_qv5FmS_I7ZKRkW4jiKFrxOuPZE0VkhK066-yR4zFQ3hbWYU1P74-2mTNlsvg-q7-A02-vGm6u7BHQFYLFlNLi_DdPikxLYqvcXtJ6x__eFTwwD3HVnkIUFBXIV_P4V26Yz8VGTCtYJgAlYYkBYPyWsw2qYsQ"
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il0sImtpZCI6Im9TQ3FnNmYzREVVNE1xT1dMSDRGRHhlUzVkOGFqdE9oUG9KXzlLd3VId0UifQ..OOZiy_1UVh3K4DcCB20e4HE5nC-KwFeKsziewG-Xj5IxNfc3XlC1wOD-v2xf5gYYAh-5xHghKQHJw_CcpXv98AgH2Eg3izZ9DnkSRwjkJJ75ZAXWbRWMXl429eLoKliAo6xV1KoSceCqjdtTpYv-7-DCIzBSEl-kBSfVZXYPzNlkBamta_wpv3ydafK-lOupwW_uPpMXnOO7v5zz-Va-5dUTOE2Dnn_RC7icVe2YlvyvFR2EpUrYAFaOlWysF0rgFr1oFOdig4DUFd66gP7B_bSLV7NbkDrdqu_IHCaEyT_UmwbNW3sqs4pn6t-djpEi8nwaLmDsCaAWa3Cc-5ulAw"
   }
 }
