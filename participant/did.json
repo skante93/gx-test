@@ -9,14 +9,14 @@
   ],
   "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:participant",
   "issuer": "did:web:raw.githubusercontent.com:skante93:gx-test:master",
-  "issuanceDate": "2024-02-20T13:52:10.534Z",
+  "issuanceDate": "2024-02-20T14:26:59.793Z",
   "credentialSubject": {
     "gx:legalName": "IMT transfert",
     "gx:headquarterAddress": {
       "gx:countrySubdivisionCode": "FR-IDF"
     },
     "gx:legalRegistrationNumber": {
-      "id": "did:web:gaia-x.eu:legalRegistrationNumber.json"
+      "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:lrn"
     },
     "gx:legalAddress": {
       "gx:countrySubdivisionCode": "FR-IDF"
@@ -27,9 +27,9 @@
   },
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T13:52:12.441Z",
+    "created": "2024-02-20T14:27:00.741Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il0sImtpZCI6Im9TQ3FnNmYzREVVNE1xT1dMSDRGRHhlUzVkOGFqdE9oUG9KXzlLd3VId0UifQ..Mw6DFpm2QLmIU-Xd4tTOAFkkF2zs3WXYOQfRgT-rvPXodmF5AFukvh-GF9mRT36TbZDt1jk1LzSluYPQ9SxLiKDuu9q8hAl6KVj7f3UoE8GWvmWN32oej4c8nc3063Cz_oiqos7lE3FUtovfG97X3veiBX7gsqAuaNPM1hA6GqGnMaSIJARmpxFVZXX65kiEUXQ4GWZkM5WRfS5vzWhyrE8ybHtnADKOiP0Z_a_hue1EcVb9ZtF0RipuJHwabqQbPTr18Bdb8iE2JvkgtmA3npH9KI6_oJWEoI_NSTsw_RAeiMmVgrYtgDdrrJWCYE47z8ftoobaYUO-aM3n68EQmg"
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il0sImtpZCI6Im9TQ3FnNmYzREVVNE1xT1dMSDRGRHhlUzVkOGFqdE9oUG9KXzlLd3VId0UifQ..UnYJAJTTqfkfPfJpNwdr-3TLVXQ9w6tUUANRCknX3Md8LvnbU2WEPywxhmhTUoMplmxx5nYwiNNl-Rj03lkKSJ_ysxLCM6wDb4MhimTmOog6_DgKNSL8KZz_76KrAwJHY70CtOWSLIhH3vAKB4Q7UX_Pd2v3LGDFfY13gsGF0BJkJ1imTQv_2_Yds_qv5FmS_I7ZKRkW4jiKFrxOuPZE0VkhK066-yR4zFQ3hbWYU1P74-2mTNlsvg-q7-A02-vGm6u7BHQFYLFlNLi_DdPikxLYqvcXtJ6x__eFTwwD3HVnkIUFBXIV_P4V26Yz8VGTCtYJgAlYYkBYPyWsw2qYsQ"
   }
 }

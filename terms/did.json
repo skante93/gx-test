@@ -5,7 +5,7 @@
     "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
   ],
   "type": "VerifiableCredential",
-  "issuanceDate": "2024-02-20T13:52:09.420Z",
+  "issuanceDate": "2024-02-20T14:26:58.673Z",
   "credentialSubject": {
     "gx:termsAndConditions": "The PARTICIPANT signing the Self-Description agrees as follows:\n- to update its descriptions about any changes, be it technical, organizational, or legal - especially but not limited to contractual in regards to the indicated attributes present in the descriptions.\n\nThe keypair used to sign Verifiable Credentials will be revoked where Gaia-X Association becomes aware of any inaccurate statements in regards to the claims which result in a non-compliance with the Trust Framework and policy rules defined in the Policy Rules and Labelling Document (PRLD).",
     "type": "gx:GaiaXTermsAndConditions",
@@ -15,9 +15,9 @@
   "id": "did:web:raw.githubusercontent.com:skante93:gx-test:master:terms",
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T13:52:10.534Z",
+    "created": "2024-02-20T14:26:59.793Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il0sImtpZCI6Im9TQ3FnNmYzREVVNE1xT1dMSDRGRHhlUzVkOGFqdE9oUG9KXzlLd3VId0UifQ..iBvs5DSfDftzpbEhZv5tsVytGlE14JY2--QXXh4inTvXFUgCw5tkg3iqsXoRWizVaoPToeDiqVoHbcbovO1fWVIqDEBi-J2Rg_7Y8jG42vyhW08o5H6aq49xBIwGZTmLDg_Tf-GagJ3VmpcP3HjwXAp8mU8Ab6iB68i1UEzE7YU7J32ojkcLIwjVDkspJm-OOTmqC9-DyE-csyDw39qV3WH0_81OJtD0hVMmeHdIz-9XrJHYwBaH75E8xcNFjnVi6fXSgpZh2r2QSAwlYI_n0zBm26Fon5IXsg9povVZI28zHFlcqm3ZGyNxECP-DFEpOCndkVOyT-WjB0EJAUcG1A"
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il0sImtpZCI6Im9TQ3FnNmYzREVVNE1xT1dMSDRGRHhlUzVkOGFqdE9oUG9KXzlLd3VId0UifQ..ndebzcLkdQcCog5rM4qHudfiYI-IrrONK6i3iPKUBkCHI5AU8naD9Wxre7IqWN9kjnScyPIbYf4qi2HdSsT2NEsbFceGM5rCk4Cjll6SdaNrUAku6eow6FYSsDJF2na1wO5W_10dzwx2-S92i8J73FrXGavhbQNuhoEvqr-seGIau7DUE3xsHCdIwe_rcOCxlQ_D8QJFsJ5AwyZ9imAZrbRiR2LTMrFF9WeqWFNICP_WSFuqpzKv-8OEdUAspcN4jO2q5dwTcDeHdVca59CiR1Bjh3cFNw5Fnw4TslCvDYDqU7L3bzfdpLt6McBI0ZTrdDAX0uN66dcGAW13jBKALA"
   }
 }
