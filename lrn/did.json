@@ -7,8 +7,8 @@
     "VerifiableCredential"
   ],
   "id": "https://raw.githubusercontent.com/skante93/gx-test/master/lrn/did.json",
-  "issuer": "did:web:gx-notary.airenetworks.es:v1",
-  "issuanceDate": "2024-02-20T16:42:02.875Z",
+  "issuer": "did:web:registration.lab.gaia-x.eu:v1",
+  "issuanceDate": "2024-02-20T17:07:34.722Z",
   "credentialSubject": {
     "@context": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
     "type": "gx:legalRegistrationNumber",
@@ -19,15 +19,15 @@
   "evidence": [
     {
       "gx:evidenceURL": "http://ec.europa.eu/taxation_customs/vies/services/checkVatService",
-      "gx:executionDate": "2024-02-20T16:42:02.875Z",
+      "gx:executionDate": "2024-02-20T17:07:34.721Z",
       "gx:evidenceOf": "gx:vatID"
     }
   ],
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T16:42:02.903Z",
+    "created": "2024-02-20T17:07:34.738Z",
     "proofPurpose": "assertionMethod",
-    "verificationMethod": "did:web:gx-notary.airenetworks.es:v1#X509-JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..CFJ1qqVHYpMEZvjV6VyAK--CpuzUd31vH9kV1lNzvlQuamwEXe5N4vJMNFenCR14pODIRpqygJTwKLFAVdW-go39dqXaK_AkkXTeZNEFW-U1Wqd7n2wwOmAcZ4_Mt8ArmA2idj5BCxrYSlKPhUaCtwEjlosDIAQULIyl_xThajq0oVAEJSdn4VIST4a7UZXFSY173T8i-vfhl6MQe5lPBrc5M_1GE5gU6IEqM9eBDIkLcNvlPKnpxQctbzbzLtLrXZw5rwvRjQDz9Xj2zzV7TZsn1_KiNBpOpMf33ZqB4Nz2l_gD0GvW5kbm1AsSZCyX52oTHenhFlH2HwHel2twC_47zc2bHSuE4Q40d3Ur09-gOiKgxAqFq94-5sYNkPqGqqSckph54mHZWimBw4SjCDpVZTYdHotSlUtmfA20bfrYRBXwwUSYs8gdS1mDh5s3kGDb0vmoC0-PkuPvCHteot1MbF0YfxNghRqdQVGZV3Q15Qhq6Wa48bhl9kX6ysS8K6Ee_KR5SYSI6n0X5zeTjkYk1SqkgjtMOFnwYZRvYQIpis1k-Ag7V3qjRW8wsa1u9HLugNi7KKu0iyxQohm9OjJ3RhL2ejRgJwRqAG9eA_nwyWYu12Sv3mzvgjQU4_YXEJHe55-_AR4KCSIqptA5KuWjFC3VYU4996dstwoFO4E"
+    "verificationMethod": "did:web:registration.lab.gaia-x.eu:v1#X509-JWK2020",
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..J9NZmyYguBalGsaKsMFZjN3MnZ-0729jUjMbxD8QceLlzR3UBGX6AeO9OsO9piUCmVY_u6S_sC5S7Xd2UuQ-LC-beB_ywysygtyRlGdxSNzLqXZkUpA6mD21mt_BAZL6G2RiYnQ3OWOoNfa8AvcpT5WDM5OTZ7rc5qFuHKPtsq4GVAyb23P_i-9IpsFw0ty6reKn47f2Z7NtE8f2X3tdOxiIui8UM6oIqD2mJA49WFBPB9mBmIVVG_RCaQ48HSQ9j70jQkUenq3HGWkxnM1C0_OddtVJJB2WUAEWU0om4ZM2hRVQCv3J9msb5XgsqrLSCsM_NiGRUNpWPsRRtw0vYA"
   }
 }
