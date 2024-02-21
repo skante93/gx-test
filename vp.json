@@ -12,7 +12,7 @@
       ],
       "id": "https://raw.githubusercontent.com/skante93/gx-test/master/lrn/did.json",
       "issuer": "did:web:registration.lab.gaia-x.eu:v1",
-      "issuanceDate": "2024-02-21T15:08:43.818Z",
+      "issuanceDate": "2024-02-21T16:19:49.198Z",
       "credentialSubject": {
         "@context": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
         "type": "gx:legalRegistrationNumber",
@@ -23,16 +23,16 @@
       "evidence": [
         {
           "gx:evidenceURL": "http://ec.europa.eu/taxation_customs/vies/services/checkVatService",
-          "gx:executionDate": "2024-02-21T15:08:43.818Z",
+          "gx:executionDate": "2024-02-21T16:19:49.198Z",
           "gx:evidenceOf": "gx:vatID"
         }
       ],
       "proof": {
         "type": "JsonWebSignature2020",
-        "created": "2024-02-21T15:08:43.830Z",
+        "created": "2024-02-21T16:19:49.206Z",
         "proofPurpose": "assertionMethod",
         "verificationMethod": "did:web:registration.lab.gaia-x.eu:v1#X509-JWK2020",
-        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..bV7x-3uu4zhW1wt806NO6RZDRJ00SE5Sp8N5TnRYqRZMowX4DA0kJpFHg-z2kgvRWIXxndIcX4toxDc4S5rQllMulRItvRPhtxcltPcsVlCHbmMDEZkaN1F5OIpyGWf6N0YY05j8DXowV7nY5gkE_BsysUWEIw-beN1zL1XlpRvoJi1JbsY6yMYCCsCr99qdvwZDgKiPirhp4-8Ir7Se7QMXkUyqlTKhVcNcqrK9gF1Ah62Jwwxhj3zk9p02uQotQNGk11I19s7Rsb8_kfceb1Fn-hAHIjiC22FyQqA-laLgI5zMixVhD919C_-oLYqnvvzDEoYZEhLNId8T3J8aLQ"
+        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..dDQRgjvthPAUAH0zudCW6DrU0H1NMcpNvLxQgqtewJ9WrJybpMSACx-YPxn73k-NyMMrdARmkmuMUAOl_-I9E5E-fGTH3VWwvPUVbn2Ym3KeJ6l7xSdRWNrp-tVn6Fa3iPUEdUu7qGTLt98XNIcO17J6U-pqOCMkfACpkYMeifEdU5byVxJbYYxgz6EBLmQevdhlBWtsjZDHMjAW9TJNNjPjDu3F7HvwK0gMDqhnhX4YUxCvDhRINDuz53mkWmI11qQVswmSBKj1OsnOd6axLPJTTYyyEL_CpFpVVAAR5K-PYia9TPoy4yTjPYv8txL8b01rtOGhj9bu3VU2yhIaLA"
       }
     },
     {
@@ -42,7 +42,7 @@
         "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
       ],
       "type": "VerifiableCredential",
-      "issuanceDate": "2024-02-21T15:08:43.845Z",
+      "issuanceDate": "2024-02-21T16:19:48.857Z",
       "credentialSubject": {
         "gx:termsAndConditions": "The PARTICIPANT signing the Self-Description agrees as follows:\n- to update its descriptions about any changes, be it technical, organizational, or legal - especially but not limited to contractual in regards to the indicated attributes present in the descriptions.\n\nThe keypair used to sign Verifiable Credentials will be revoked where Gaia-X Association becomes aware of any inaccurate statements in regards to the claims which result in a non-compliance with the Trust Framework and policy rules defined in the Policy Rules and Labelling Document (PRLD).",
         "type": "gx:GaiaXTermsAndConditions",
@@ -52,10 +52,10 @@
       "id": "https://raw.githubusercontent.com/skante93/gx-test/master/terms/did.json",
       "proof": {
         "type": "JsonWebSignature2020",
-        "created": "2024-02-21T15:08:43.845Z",
+        "created": "2024-02-21T17:19:48.859+01:00",
         "proofPurpose": "assertionMethod",
         "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..hyojMz6M3n8_C1DooJPdB4rvDSfO1GUTH9jbKpd4D49tF4c5ZfMx0l70nTuBS4k3ilWYBWWhyoxgZUfSa_LgEx399FqWLPmJk6BrJHsGNfBfN-7tCNDca07mvapLLSWb6tKw-J3ofYWerV-D4jJsbrrMTu0LzrwzGFI1siXaoiVshXVxMpy_Iis3tE3U_23K_SHeXkfkZbZVawPfLt7njT6NkCfDLAM9w2cAtMZdoURjC7Z74cnZr-pw2fBaa5mSZu54kbLRJH08xG3zCO3qeiedNwsoD7A4IBYD1-58nhGSEHt4wYC6yxUH9iQ9yh06o5nKFmfsxaBHIb4gevIIjA"
+        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..WQidenz4MWj2qtNRTLPocqwi-qvnh1Q5c4GSvBFCuYx_pnUFYzsQ1poHcf-boAP9nhq-zeYJ98fd4CAx2nEwlWxfOG7LWGsSxyjMm1ggiBvBMkft4Pyy0PGvLinfz_mk-IILvcCPgTLZCnSSLgDmuPzTA5wVFxAGkU59NmrCsf_lMrsnQiSDXXqDfdVWl0iWy0ftqqcmFelv7FRh7nbUlEuyBCQsZZnB8pRto0cGv67HKcEOOA8dTUTsKe7cvGN6I5HCq0Benw-J5g0YQnwUb_VpXdQsJ0gZizjqaLJwLsOfPkDtv14EIfL1oSITBaqr-QQob9n2X1SjfzJ2ylYe-A"
       }
     },
     {
@@ -69,7 +69,7 @@
       ],
       "id": "https://raw.githubusercontent.com/skante93/gx-test/master/participant/did.json",
       "issuer": "did:web:raw.githubusercontent.com:skante93:gx-test:master",
-      "issuanceDate": "2024-02-21T15:08:45.061Z",
+      "issuanceDate": "2024-02-21T16:19:48.858Z",
       "credentialSubject": {
         "gx:legalName": "IMT transfert",
         "gx:headquarterAddress": {
@@ -87,10 +87,10 @@
       },
       "proof": {
         "type": "JsonWebSignature2020",
-        "created": "2024-02-21T15:08:45.061Z",
+        "created": "2024-02-21T17:19:48.876+01:00",
         "proofPurpose": "assertionMethod",
         "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..epT-AELH5pTWjSsNvV5164_I3c888xRbEsbyYzry0bt1FnJKkzT5plMbY1Qnbhb72f4GCn7NflVqa8sdWbmQLuEiQee4n4P1j9jY_OMqpRd1amyr8sFA2YAausSTNF027HDWi4xbH2X01xkMu7Pw0sBVN9sEY2d3URUMFCEkvT_8hWQaaP7t4IZjiq710RJb9AdgrB2jAcU0Wn5wP7877AFUe1AuPFGj_hAXo9PBGVDOXyW6lrfn80KZjSHG4wW_ewRn6Nj5pHGWNtPYKBBfcOHc8xqYpRedSa5J2IBHZHIEmV7xYvtrAzKNmO94dcG37Q6LUa-d-ZqZdVsrJSaO5w"
+        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..XzC-wfJz1hhWKQKsTH0YEuX_OJBZi6tRsYsOUt-QRUPgdAP8Wqdz4qaQ2TuMCSLJqt5PgznGjBqlpy211JZ223qJG4Mo4J9Z79sloV5mKrWWRbrYqtLAgbrgxHYBQIIujJjMSIe41hZhrzt301eM_jjLcEnMZJvgC_d7CarxgrS5U3js0zE_NY8x3uZaRpw5MZeU0Er26pl4Rex8iA_G65yCtVpq7Y6BMXhGG2k-hqQNWumhvGGOyScmXj7ZlrTauh821vcij6rfwSpMyNWhDrFN8iasCXbU67SMoYl4FgAZPLD66vYrXAK34YNnBBRb-i2ZxK9HBjxEV0gdjkCVew"
       }
     }
   ]
