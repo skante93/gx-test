@@ -8,7 +8,7 @@
   ],
   "id": "https://raw.githubusercontent.com/skante93/gx-test/master/lrn/did.json",
   "issuer": "did:web:registration.lab.gaia-x.eu:v1",
-  "issuanceDate": "2024-02-20T17:07:34.722Z",
+  "issuanceDate": "2024-02-21T11:21:59.205Z",
   "credentialSubject": {
     "@context": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
     "type": "gx:legalRegistrationNumber",
@@ -19,15 +19,15 @@
   "evidence": [
     {
       "gx:evidenceURL": "http://ec.europa.eu/taxation_customs/vies/services/checkVatService",
-      "gx:executionDate": "2024-02-20T17:07:34.721Z",
+      "gx:executionDate": "2024-02-21T11:21:59.205Z",
       "gx:evidenceOf": "gx:vatID"
     }
   ],
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T17:07:34.738Z",
+    "created": "2024-02-21T11:21:59.224Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:registration.lab.gaia-x.eu:v1#X509-JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..J9NZmyYguBalGsaKsMFZjN3MnZ-0729jUjMbxD8QceLlzR3UBGX6AeO9OsO9piUCmVY_u6S_sC5S7Xd2UuQ-LC-beB_ywysygtyRlGdxSNzLqXZkUpA6mD21mt_BAZL6G2RiYnQ3OWOoNfa8AvcpT5WDM5OTZ7rc5qFuHKPtsq4GVAyb23P_i-9IpsFw0ty6reKn47f2Z7NtE8f2X3tdOxiIui8UM6oIqD2mJA49WFBPB9mBmIVVG_RCaQ48HSQ9j70jQkUenq3HGWkxnM1C0_OddtVJJB2WUAEWU0om4ZM2hRVQCv3J9msb5XgsqrLSCsM_NiGRUNpWPsRRtw0vYA"
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..iWi3ajpPuTm2FNjDgr3-P9HV6jd8Ph9osvDsK3D4F4_MzthUybcGVIfGqNcq4QU2Yr-s21Fs97wqjheI4YT1e3cITAH8KYFiTPKaEpiXEClMz9iUprBFhtWHu1iRtQaoKdx_ykb0IJEsBAgePLiqSjsnOWymfDojYAqU_P7uNMuIz0RfmF-z669ivn5zg4sY7vrQj6Cuy3FnTE0dkXfAv-1ceVDZTXYs8TYo0shIzdJtyLoOrU-rC51iZtuD9VPfz6ZGsHNVHZi0lLof8iiEo1WhzvqDbGLAstI4PjoNwwpcMu90hqY_h1E8Lc_f3cXmtqGAgDJ5KQ7tXyPWesku9g"
   }
 }

@@ -5,7 +5,7 @@
     "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
   ],
   "type": "VerifiableCredential",
-  "issuanceDate": "2024-02-20T17:07:34.753Z",
+  "issuanceDate": "2024-02-21T11:21:59.238Z",
   "credentialSubject": {
     "gx:termsAndConditions": "The PARTICIPANT signing the Self-Description agrees as follows:\n- to update its descriptions about any changes, be it technical, organizational, or legal - especially but not limited to contractual in regards to the indicated attributes present in the descriptions.\n\nThe keypair used to sign Verifiable Credentials will be revoked where Gaia-X Association becomes aware of any inaccurate statements in regards to the claims which result in a non-compliance with the Trust Framework and policy rules defined in the Policy Rules and Labelling Document (PRLD).",
     "type": "gx:GaiaXTermsAndConditions",
@@ -15,9 +15,9 @@
   "id": "https://raw.githubusercontent.com/skante93/gx-test/master/terms/did.json",
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-20T17:07:35.925Z",
+    "created": "2024-02-21T11:22:00.279Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il0sImtpZCI6IjFBM01zWVZNTm43YXBzZmU4aGI0ZENCTC1qRDliRUViUzRmc2o4TGJyTmMifQ.NzgxOTBjOGZlZjA1OWZhM2E0MjE1YmNkOTJhN2UwMjFjZGQ2NjQwZWM0MjhkOGY0YjBkZmE2ZGI2YTI2MDAzMA.a-ryTmsfJq1sPTP0xifl0hxl8FgDAW68eDBXgFJgWIeRYUrzJzGYIsBnYDjG2pCyXEc3MCnKbLfkJg9EcMabEnAo9Gl6jNRc3ARpeB22vteOXUXJSX65R40ADSXgs6j7w6IBm5udYNNQ4vA6dnTinML7yYSRrLWNYy2rx4YdCcgiqA0yxXwqo9uzY5D7FoO8ZXg48s1x4IdYKfkfl3oKhdSTFfnOMuBZt17uWbmAqL6y1QawhlL7pdbNHONW4__hce0FHXF1Gn0zV1dMy7ZI63hFvlNAKiee4Uy_9DCZG5KAkH4NZTjG5W1HMRS5kGp__FI7ZHRIz3J78CpTP3fhPQ"
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..SxLzWMnBkQl8ijeR4f-ul3eny-tvynTtFH8cKw4j_48V3JnwNi3XhYB_59Hwy96KGGtcpThk4I5Rk6wkl5CRTQSU7CBaLRU1aTHnhWns1gOX0LGtH_dzjiGownrHmI2GufqVM8pIbL4OOZeniqd8c5qwDCmmARxZIBNkcinhJhCumTWlKgALUK4w4vTCxDi2KlfwlMocnSinb_fAsHBYgQl9jJL2OZk23D6BfAd-yMFogxwM8zj8MnNm1j-BstQD7wgvEmeqVeiSI_1F5EPTa2WqIiiKXafesfjDhU6by_eD3vNx3SLwkZXe8niIo46hNWDKIFv-JxWUV7K3XvC1xQ"
   }
 }
