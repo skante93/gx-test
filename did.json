@@ -10,11 +10,10 @@
       "type": "JsonWebKey2020",
       "publicKeyJwk": {
         "kty": "RSA",
-        "kid": "1A3MsYVMNn7apsfe8hb4dCBL-jD9bEEbS4fsj8LbrNc",
-        "alg": "PS256",
+        "kid": "fhhyhLw8p5vB97h-WQjTrOFHtdqyY6YkqnHdpZTglLs",
+        "n": "qFXcqUc5qbPTpsQfTEzZzUfIxRz92YtWxThQQOmXE_1ervck-cOss6b0ALzkeY3so2VL5Zm1EdoLEoGTUH5hcvtHuRcbASyJKAcGYMPDSXIgDDqrZSWSkycp8yIdLAlY4H1e_OjKe8lsUiBHJh0956QT9BmzgZia7-d8b3jvCkCt4hB4Sc5nd2AOvQ8hgUSzHckIMhCZvCTCzpsk4uNA5FfMMHeTWKH0TvOEdwt_iBY0iEishT2xkC8Q5zFHUrzx500srK1OrPkzDu0wNMvYQHTXP3H-r3h8yqvb08ZE4olPKRtTCnqxFskw9V2s0kXVUnIZS8eqhs4sv42kWE10Iw",
         "e": "AQAB",
-        "n": "2Af504omUxIKNslnoIqID3Ish3-Im_jtcu9tEnlRnfTKQjDhoy8pNsKAUCeCBku23diyYXV1QZYsDnRAeHjlp5rk9M6hbnU8q_h031cprc7jnwxV3GVcCqXGQkquZNSgECSMiAZ_Qe-JCRu15xA7Spnx7xURLeA7Fw_MbLx7e8FnTvz7L24fVBVd3jXrDubYmte2C8pizRIwVL-RkdmRrqIcRyiItz-YV6uXryWP8CaA4Q0Zbdzd4xJSmwj68LgBx6m196qOd2OmvEc2rkdkch6e3lEAiD5Cwr1Snv42TRYHmqwf13g640y6NqhX6bTQ97kV-93AGXjz5lS8eKw1bw",
-        "x5u": "https://raw.githubusercontent.com/skante93/gx-test/master/cert.pem"
+        "x5u": "https://raw.githubusercontent.com/skante93/gx-test/master/chain.pem"
       }
     }
   ],
