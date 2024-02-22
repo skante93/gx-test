@@ -10,29 +10,29 @@
       "type": [
         "VerifiableCredential"
       ],
-      "id": "https://raw.githubusercontent.com/skante93/gx-test/master/lrn/did.json",
+      "id": "https://gaia-x.eu/legalRegistrationNumberVC.json",
       "issuer": "did:web:registration.lab.gaia-x.eu:v1",
-      "issuanceDate": "2024-02-21T16:19:49.198Z",
+      "issuanceDate": "2024-02-22T09:19:10.535Z",
       "credentialSubject": {
         "@context": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
         "type": "gx:legalRegistrationNumber",
-        "id": "https://raw.githubusercontent.com/skante93/gx-test/master/lrn/did.json#clear-statements",
+        "id": "https://gaia-x.eu/legalRegistrationNumberVC.json#clear-statements",
         "gx:vatID": "FR57434541876",
         "gx:vatID-countryCode": "FR"
       },
       "evidence": [
         {
           "gx:evidenceURL": "http://ec.europa.eu/taxation_customs/vies/services/checkVatService",
-          "gx:executionDate": "2024-02-21T16:19:49.198Z",
+          "gx:executionDate": "2024-02-22T09:19:10.535Z",
           "gx:evidenceOf": "gx:vatID"
         }
       ],
       "proof": {
         "type": "JsonWebSignature2020",
-        "created": "2024-02-21T16:19:49.206Z",
+        "created": "2024-02-22T09:19:10.546Z",
         "proofPurpose": "assertionMethod",
         "verificationMethod": "did:web:registration.lab.gaia-x.eu:v1#X509-JWK2020",
-        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..dDQRgjvthPAUAH0zudCW6DrU0H1NMcpNvLxQgqtewJ9WrJybpMSACx-YPxn73k-NyMMrdARmkmuMUAOl_-I9E5E-fGTH3VWwvPUVbn2Ym3KeJ6l7xSdRWNrp-tVn6Fa3iPUEdUu7qGTLt98XNIcO17J6U-pqOCMkfACpkYMeifEdU5byVxJbYYxgz6EBLmQevdhlBWtsjZDHMjAW9TJNNjPjDu3F7HvwK0gMDqhnhX4YUxCvDhRINDuz53mkWmI11qQVswmSBKj1OsnOd6axLPJTTYyyEL_CpFpVVAAR5K-PYia9TPoy4yTjPYv8txL8b01rtOGhj9bu3VU2yhIaLA"
+        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..piF2gkj-zI21To1jddjF8nOU67q_FtHcQldD06kyH0R-68rWgc2gGEp002t9mDBFYiiiLsZ_MWJN8hLxPZ479Ngfy_4-UMYxDOma5r_QCQ5w3NJX6bims_l8g6PfPBJ6bq3CEgZ39iCJ7GkXCWGU2CZY3I2Om0v1g8BGDIcbKr0jTMhOAVnncYhmv6hdjCqPTx0zxaTbfhiakkNg63nNRSYXUDCcqysCM1zpbIvELR7uzrzpgNopatagwZA8Oskr8V_E25iVmbE1g8kXoTiRUjmAcM77REDBh6e4nht7vk6tHDrbKl8thwRKE8byRdhKce85wawuQvCN--tAnQT8Ag"
       }
     },
     {
@@ -42,7 +42,7 @@
         "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
       ],
       "type": "VerifiableCredential",
-      "issuanceDate": "2024-02-21T16:19:48.857Z",
+      "issuanceDate": "2024-02-22T09:19:10.255Z",
       "credentialSubject": {
         "gx:termsAndConditions": "The PARTICIPANT signing the Self-Description agrees as follows:\n- to update its descriptions about any changes, be it technical, organizational, or legal - especially but not limited to contractual in regards to the indicated attributes present in the descriptions.\n\nThe keypair used to sign Verifiable Credentials will be revoked where Gaia-X Association becomes aware of any inaccurate statements in regards to the claims which result in a non-compliance with the Trust Framework and policy rules defined in the Policy Rules and Labelling Document (PRLD).",
         "type": "gx:GaiaXTermsAndConditions",
@@ -52,10 +52,10 @@
       "id": "https://raw.githubusercontent.com/skante93/gx-test/master/terms/did.json",
       "proof": {
         "type": "JsonWebSignature2020",
-        "created": "2024-02-21T17:19:48.859+01:00",
+        "created": "2024-02-22T10:19:10.257+01:00",
         "proofPurpose": "assertionMethod",
         "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..WQidenz4MWj2qtNRTLPocqwi-qvnh1Q5c4GSvBFCuYx_pnUFYzsQ1poHcf-boAP9nhq-zeYJ98fd4CAx2nEwlWxfOG7LWGsSxyjMm1ggiBvBMkft4Pyy0PGvLinfz_mk-IILvcCPgTLZCnSSLgDmuPzTA5wVFxAGkU59NmrCsf_lMrsnQiSDXXqDfdVWl0iWy0ftqqcmFelv7FRh7nbUlEuyBCQsZZnB8pRto0cGv67HKcEOOA8dTUTsKe7cvGN6I5HCq0Benw-J5g0YQnwUb_VpXdQsJ0gZizjqaLJwLsOfPkDtv14EIfL1oSITBaqr-QQob9n2X1SjfzJ2ylYe-A"
+        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..FD1qtXIQFwvtw0PoI-rRlff0vykMxSwJ_lG5LH1iALqrsw1ZsVIyRPmc0xyTlLmS5WS5-kouUinqImYrY__Pdmi6_WgXHLQkpZUKaxlmXc36eNivMHyZO6n0wvkkfsdfUppW1_TBdp10sf-EbgQSeRuxHbEgcjUuNiY9zK6295Wq94wUzvseQvg3127hcfqLoGlhru0KVWPxFyX3mBcTOSSj0fR5_lm5ooZc-nERCwaSsrJTHUcuOvr6lgGMXHPJKPLBYueB28vOTptH3VFUjhChKSN60Kl4df2T0jPomeM4k75F18VfTpOJLNmRFxhX258lPNPsMfZnbF9GwcDW8w"
       }
     },
     {
@@ -69,7 +69,7 @@
       ],
       "id": "https://raw.githubusercontent.com/skante93/gx-test/master/participant/did.json",
       "issuer": "did:web:raw.githubusercontent.com:skante93:gx-test:master",
-      "issuanceDate": "2024-02-21T16:19:48.858Z",
+      "issuanceDate": "2024-02-22T09:19:10.256Z",
       "credentialSubject": {
         "gx:legalName": "IMT transfert",
         "gx:headquarterAddress": {
@@ -87,10 +87,10 @@
       },
       "proof": {
         "type": "JsonWebSignature2020",
-        "created": "2024-02-21T17:19:48.876+01:00",
+        "created": "2024-02-22T10:19:10.302+01:00",
         "proofPurpose": "assertionMethod",
         "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..XzC-wfJz1hhWKQKsTH0YEuX_OJBZi6tRsYsOUt-QRUPgdAP8Wqdz4qaQ2TuMCSLJqt5PgznGjBqlpy211JZ223qJG4Mo4J9Z79sloV5mKrWWRbrYqtLAgbrgxHYBQIIujJjMSIe41hZhrzt301eM_jjLcEnMZJvgC_d7CarxgrS5U3js0zE_NY8x3uZaRpw5MZeU0Er26pl4Rex8iA_G65yCtVpq7Y6BMXhGG2k-hqQNWumhvGGOyScmXj7ZlrTauh821vcij6rfwSpMyNWhDrFN8iasCXbU67SMoYl4FgAZPLD66vYrXAK34YNnBBRb-i2ZxK9HBjxEV0gdjkCVew"
+        "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..V6zQ-NtIPSafiArLIcY8eUyNFgmyIh3iWjJKZ7zOmhKirNdwiVTrgMSlkMWyAvnxUQbdTJ0-StGQ2wTXdfIKb1Vka-N2KacgE0myN94NDGlUGiPYzDaepm26STmvFDElgWQ9bHBWPYs9kN_RGWWzxDEeqykFGnVgSgyHFgt67JL9hrzuYG8wOo1robqH-hfnRH2ZcURgVuVsrcLTjc6s3gQSzrq9IXGvm562VcjWMzBYreuXkowlFt7A5W88WWsLEka3PHeaH-AZUl6AgcxPe8z_1uRToBuKxM4x8ooLiFWlpmjAsV2CcFCHw0Zcf9mOGsWPTd4OeODg0f4d85Fnzw"
       }
     }
   ]

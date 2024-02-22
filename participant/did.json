@@ -9,7 +9,7 @@
   ],
   "id": "https://raw.githubusercontent.com/skante93/gx-test/master/participant/did.json",
   "issuer": "did:web:raw.githubusercontent.com:skante93:gx-test:master",
-  "issuanceDate": "2024-02-21T16:19:48.858Z",
+  "issuanceDate": "2024-02-22T09:19:10.256Z",
   "credentialSubject": {
     "gx:legalName": "IMT transfert",
     "gx:headquarterAddress": {
@@ -27,9 +27,9 @@
   },
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-21T17:19:48.876+01:00",
+    "created": "2024-02-22T10:19:10.302+01:00",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..XzC-wfJz1hhWKQKsTH0YEuX_OJBZi6tRsYsOUt-QRUPgdAP8Wqdz4qaQ2TuMCSLJqt5PgznGjBqlpy211JZ223qJG4Mo4J9Z79sloV5mKrWWRbrYqtLAgbrgxHYBQIIujJjMSIe41hZhrzt301eM_jjLcEnMZJvgC_d7CarxgrS5U3js0zE_NY8x3uZaRpw5MZeU0Er26pl4Rex8iA_G65yCtVpq7Y6BMXhGG2k-hqQNWumhvGGOyScmXj7ZlrTauh821vcij6rfwSpMyNWhDrFN8iasCXbU67SMoYl4FgAZPLD66vYrXAK34YNnBBRb-i2ZxK9HBjxEV0gdjkCVew"
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..V6zQ-NtIPSafiArLIcY8eUyNFgmyIh3iWjJKZ7zOmhKirNdwiVTrgMSlkMWyAvnxUQbdTJ0-StGQ2wTXdfIKb1Vka-N2KacgE0myN94NDGlUGiPYzDaepm26STmvFDElgWQ9bHBWPYs9kN_RGWWzxDEeqykFGnVgSgyHFgt67JL9hrzuYG8wOo1robqH-hfnRH2ZcURgVuVsrcLTjc6s3gQSzrq9IXGvm562VcjWMzBYreuXkowlFt7A5W88WWsLEka3PHeaH-AZUl6AgcxPe8z_1uRToBuKxM4x8ooLiFWlpmjAsV2CcFCHw0Zcf9mOGsWPTd4OeODg0f4d85Fnzw"
   }
 }

@@ -6,28 +6,28 @@
   "type": [
     "VerifiableCredential"
   ],
-  "id": "https://raw.githubusercontent.com/skante93/gx-test/master/lrn/did.json",
+  "id": "https://gaia-x.eu/legalRegistrationNumberVC.json",
   "issuer": "did:web:registration.lab.gaia-x.eu:v1",
-  "issuanceDate": "2024-02-21T16:19:49.198Z",
+  "issuanceDate": "2024-02-22T09:19:10.535Z",
   "credentialSubject": {
     "@context": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
     "type": "gx:legalRegistrationNumber",
-    "id": "https://raw.githubusercontent.com/skante93/gx-test/master/lrn/did.json#clear-statements",
+    "id": "https://gaia-x.eu/legalRegistrationNumberVC.json#clear-statements",
     "gx:vatID": "FR57434541876",
     "gx:vatID-countryCode": "FR"
   },
   "evidence": [
     {
       "gx:evidenceURL": "http://ec.europa.eu/taxation_customs/vies/services/checkVatService",
-      "gx:executionDate": "2024-02-21T16:19:49.198Z",
+      "gx:executionDate": "2024-02-22T09:19:10.535Z",
       "gx:evidenceOf": "gx:vatID"
     }
   ],
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-21T16:19:49.206Z",
+    "created": "2024-02-22T09:19:10.546Z",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:registration.lab.gaia-x.eu:v1#X509-JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..dDQRgjvthPAUAH0zudCW6DrU0H1NMcpNvLxQgqtewJ9WrJybpMSACx-YPxn73k-NyMMrdARmkmuMUAOl_-I9E5E-fGTH3VWwvPUVbn2Ym3KeJ6l7xSdRWNrp-tVn6Fa3iPUEdUu7qGTLt98XNIcO17J6U-pqOCMkfACpkYMeifEdU5byVxJbYYxgz6EBLmQevdhlBWtsjZDHMjAW9TJNNjPjDu3F7HvwK0gMDqhnhX4YUxCvDhRINDuz53mkWmI11qQVswmSBKj1OsnOd6axLPJTTYyyEL_CpFpVVAAR5K-PYia9TPoy4yTjPYv8txL8b01rtOGhj9bu3VU2yhIaLA"
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..piF2gkj-zI21To1jddjF8nOU67q_FtHcQldD06kyH0R-68rWgc2gGEp002t9mDBFYiiiLsZ_MWJN8hLxPZ479Ngfy_4-UMYxDOma5r_QCQ5w3NJX6bims_l8g6PfPBJ6bq3CEgZ39iCJ7GkXCWGU2CZY3I2Om0v1g8BGDIcbKr0jTMhOAVnncYhmv6hdjCqPTx0zxaTbfhiakkNg63nNRSYXUDCcqysCM1zpbIvELR7uzrzpgNopatagwZA8Oskr8V_E25iVmbE1g8kXoTiRUjmAcM77REDBh6e4nht7vk6tHDrbKl8thwRKE8byRdhKce85wawuQvCN--tAnQT8Ag"
   }
 }

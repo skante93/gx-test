@@ -5,7 +5,7 @@
     "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
   ],
   "type": "VerifiableCredential",
-  "issuanceDate": "2024-02-21T16:19:48.857Z",
+  "issuanceDate": "2024-02-22T09:19:10.255Z",
   "credentialSubject": {
     "gx:termsAndConditions": "The PARTICIPANT signing the Self-Description agrees as follows:\n- to update its descriptions about any changes, be it technical, organizational, or legal - especially but not limited to contractual in regards to the indicated attributes present in the descriptions.\n\nThe keypair used to sign Verifiable Credentials will be revoked where Gaia-X Association becomes aware of any inaccurate statements in regards to the claims which result in a non-compliance with the Trust Framework and policy rules defined in the Policy Rules and Labelling Document (PRLD).",
     "type": "gx:GaiaXTermsAndConditions",
@@ -15,9 +15,9 @@
   "id": "https://raw.githubusercontent.com/skante93/gx-test/master/terms/did.json",
   "proof": {
     "type": "JsonWebSignature2020",
-    "created": "2024-02-21T17:19:48.859+01:00",
+    "created": "2024-02-22T10:19:10.257+01:00",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:web:raw.githubusercontent.com:skante93:gx-test:master#JWK2020",
-    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..WQidenz4MWj2qtNRTLPocqwi-qvnh1Q5c4GSvBFCuYx_pnUFYzsQ1poHcf-boAP9nhq-zeYJ98fd4CAx2nEwlWxfOG7LWGsSxyjMm1ggiBvBMkft4Pyy0PGvLinfz_mk-IILvcCPgTLZCnSSLgDmuPzTA5wVFxAGkU59NmrCsf_lMrsnQiSDXXqDfdVWl0iWy0ftqqcmFelv7FRh7nbUlEuyBCQsZZnB8pRto0cGv67HKcEOOA8dTUTsKe7cvGN6I5HCq0Benw-J5g0YQnwUb_VpXdQsJ0gZizjqaLJwLsOfPkDtv14EIfL1oSITBaqr-QQob9n2X1SjfzJ2ylYe-A"
+    "jws": "eyJhbGciOiJQUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..FD1qtXIQFwvtw0PoI-rRlff0vykMxSwJ_lG5LH1iALqrsw1ZsVIyRPmc0xyTlLmS5WS5-kouUinqImYrY__Pdmi6_WgXHLQkpZUKaxlmXc36eNivMHyZO6n0wvkkfsdfUppW1_TBdp10sf-EbgQSeRuxHbEgcjUuNiY9zK6295Wq94wUzvseQvg3127hcfqLoGlhru0KVWPxFyX3mBcTOSSj0fR5_lm5ooZc-nERCwaSsrJTHUcuOvr6lgGMXHPJKPLBYueB28vOTptH3VFUjhChKSN60Kl4df2T0jPomeM4k75F18VfTpOJLNmRFxhX258lPNPsMfZnbF9GwcDW8w"
   }
 }
